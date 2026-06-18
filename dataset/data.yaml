@@ -1,0 +1,5 @@
+train: /kaggle/input/potholes-detection-yolov8/train/images # e.g. /content/drive/MyDrive/Colab Notebooks/Pytorch Documentation/Datasets/Potholes/potholes-YOLOv8/train/images
+val: /kaggle/input/potholes-detection-yolov8/valid/images # e.g. /content/drive/MyDrive/Colab Notebooks/Pytorch Documentation/Datasets/Potholes/potholes-YOLOv8/valid/images
+
+nc: 1
+names: ['pothole']
