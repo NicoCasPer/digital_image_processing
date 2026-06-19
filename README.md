@@ -201,4 +201,4 @@ digital_image_processing/
 
 ---
 
-*Proyecto Final · Procesamiento Digital de Imágenes · UNAL Manizales · 2025*
+*Proyecto Final · Procesamiento Digital de Imágenes · UNAL Manizales · 2026*
