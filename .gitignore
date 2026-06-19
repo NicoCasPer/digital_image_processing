@@ -7,3 +7,10 @@ data_local.yaml
 metrics.json
 bbox_distribution.png
 examples/
+
+# Secretos — NUNCA subir al repositorio
+.env
+*.env
+!.env.example
+hf_token.txt
+token.txt
